@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/prompts": "^0.1.15",
+        "illuminate/support": "^10.40"
+    }
+}
